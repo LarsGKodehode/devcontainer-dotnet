@@ -16,8 +16,8 @@ Bring your own DB
 
 ## How
 1. Fork this repo
-2. Docker ? git clone repo-url
 2. Open in codespaces
+2. Docker ? git clone repo-url
 
 3. Create Blazor + WASM example application
 ```sh
